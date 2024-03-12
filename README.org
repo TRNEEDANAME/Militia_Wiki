@@ -1,0 +1,6 @@
+#+title: README
+#+author: TRNEEDANAME
+
+This github repository exist as a central place for my [[https://github.com/TRNEEDANAME/Militia_Overhaul][Militia Overhaul]], and my other mods on the matter, such as [[https://github.com/TRNEEDANAME/Militia_Gear][Militia Gear]], [[https://github.com/TRNEEDANAME/Militia_Accesories][Militia Accesories]]...
+
+Please see the wiki for more information
